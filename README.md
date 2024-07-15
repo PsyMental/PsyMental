@@ -10,7 +10,7 @@ This is the space where I explore the intersections of psychology, technology, a
 
 <div align="center">
 
-  <img src="https://www.icegif.com/wp-content/uploads/joker-icegif.gif" width="250">
+  <img src="https://www.icegif.com/wp-content/uploads/joker-icegif.gif">
   
   <br>
   
